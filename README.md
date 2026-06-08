@@ -10,10 +10,7 @@ The **Hotel Zero Trust Network (ZTN) Enforcement** project is an enterprise-grad
 
 It achieves strict compliance (e.g., PCI-DSS) through deep physical and logical micro-segmentation, managed centrally by a Layer 3 Multilayer Switch utilizing a highly efficient Collapsed Core architecture.
 
-### **Academic Details**
-* **Author:** Rahul Kumar Jagat (M0107)
-* **Supervised By:** Dr. Manisha Chandrakar
-* **Institution:** ITM University, Raipur
+
 
 ---
 
